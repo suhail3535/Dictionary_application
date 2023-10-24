@@ -1,0 +1,13 @@
+img{
+    width: 20%;
+}
+.logo_box{
+    display: flex;
+    justify-content:space-between;
+}
+svg{
+    color:#81a74acc;
+    font-size: 2rem;
+    /* margin-left: 2rem; */
+    align-items: center;
+}
